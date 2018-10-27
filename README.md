@@ -21,7 +21,7 @@ Furthermore, the final designs can then be circulated in apartments, offices and
 We are also planning to give people live directions using their mobile camera to quickly find their way out of huge buildings where people are usually not familiar with the emergency exits. They can follow the arrows showing directions out of the disaster site on their phone screens which is now possible with AR.
 
 # Major Functionalities
-
+- This app doesn't have any functionalities, it doesn't work.
 - Mobile application that uses AR for architects to design 3D models of disaster-resistant buildings
 - Same application circulated to public who can view and understand the structure of homes, offices etc and be aware
 - Additional feature to show path using arrows on live camera to exit buildings/move towards relief area in time of disasters
