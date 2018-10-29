@@ -25,3 +25,7 @@ We are also planning to give people live directions using their mobile camera to
 - Mobile application that uses AR for architects to design 3D models of disaster-resistant buildings
 - Same application circulated to public who can view and understand the structure of homes, offices etc and be aware
 - Additional feature to show path using arrows on live camera to exit buildings/move towards relief area in time of disasters
+
+# code 
+Where is the code ? 
+Please add code to this repo.
