@@ -28,4 +28,4 @@ We are also planning to give people live directions using their mobile camera to
 
 # code 
 Where is the code ? 
-Please add code to this repo.
+Please add code to this repository
